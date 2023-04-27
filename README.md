@@ -102,6 +102,8 @@ Download the Tailwind Starter Kit from www.creative-tim.com to speed up your pro
 ### [Free Tailwind Template](https://tailwindtemplates.co/)
 free and paid Tailwind CSS landing pages and business websites from tailwindtemplates.co.
 
+### [Free Tailwind Components](https://tailwindcomponents.com/)
+
 ### [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
  free Tailwind templates, components and building resources from the Tailwind Toolbox website.
 
