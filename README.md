@@ -4,6 +4,8 @@
 
 Tailwind CSS is a popular utility-first CSS framework that provides a set of pre-defined CSS classes that can be used to style HTML elements in your web pages. It allows developers to rapidly create responsive and beautiful user interfaces without the need for writing custom CSS.
 
+### [examples created with tailwind css ](https://tailwindcss.com/showcase)
+
 ## installation
 
 The framwork provides four options to install Tailwind CSS into your frontend project:
